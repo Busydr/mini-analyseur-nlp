@@ -45,6 +45,9 @@ Longueur moyenne des mots : 5.73
 
 Nombre de phrases : 45
 
+## Fichier de test
+Un fichier exemple `sample.txt` est inclus pour tester le programme.
+
 ## Auteur
 Chacour — Étudiant en L1 Génie Informatique
 Université Aube Nouvelle, Bobo-Dioulasso
