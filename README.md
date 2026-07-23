@@ -31,13 +31,18 @@ python MiniAnalyseurNLP.py
 ## Exemple de résultat
 
 === RAPPORT D'ANALYSE ===
+
 Nombre total de mots : 728
+
 Nombre de mots uniques : 348
+
 Top 3 mots les plus fréquents :
   la : 31
   de : 30
   une : 25
+  
 Longueur moyenne des mots : 5.73
+
 Nombre de phrases : 45
 
 ## Auteur
